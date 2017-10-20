@@ -31,7 +31,7 @@ You also need to download two datasets from figshare and put them in the [data/]
 Your need python 3.6+, FRETBursts 0.5+, phconvert 0.7.3+59.ge1df860+, pycorrelate 0.1.
 
 You can recreate the original conda environment used for running this
-analysis using the file `conda_environment_win.yml`.
+analysis using the file `conda_environment_windows.yml`.
 
 ## License
 
