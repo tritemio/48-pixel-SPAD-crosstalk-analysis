@@ -1,0 +1,1 @@
+This folder contains figures saved by the notebooks.
