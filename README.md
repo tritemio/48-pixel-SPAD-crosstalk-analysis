@@ -3,9 +3,8 @@
 Compute optical crosstalk in 48-pixels SPAD arrays.
 This repository contains the notebooks used for the analysis of the paper:
 
-*Optical crosstalk in SPAD arrays for high-throughput \\ 
-single-molecule fluorescence spectroscopy*
-Ingargiola et al. **bioRxiv** (2017) 
+> *Optical crosstalk in SPAD arrays for high-throughput single-molecule fluorescence spectroscopy*<br>
+> Ingargiola et al. **bioRxiv** (2017) [doi:10.1101/207118](https://doi.org/10.1101/207118)
 
 # How to use?
 
