@@ -13,7 +13,7 @@ dependencies:
 - lmfit=0.9.6=py36_0
 - matplotlib=2.1.0=py36_0
 - palettable=3.0.0=py36_0
-- phconvert=0.7.3=py36_1
+- phconvert=0.8=py36_0
 - pillow=4.1.0=py36_0
 - pybroom=0.2=py36_0
 - bleach=1.5.0=py36_0
@@ -30,7 +30,7 @@ dependencies:
 - ipykernel=4.5.2=py36_0
 - ipython=6.1.0=py36_0
 - ipython_genutils=0.2.0=py36_0
-- ipywidgets=6.0.0=py36_0
+- ipywidgets=7.0.0=py36h2e74ada_0
 - jedi=0.10.2=py36_2
 - jinja2=2.9.5=py36_0
 - joblib=0.11=py36_0
@@ -46,7 +46,7 @@ dependencies:
 - mistune=0.7.4=py36_0
 - mkl=2017.0.1=0
 - nbconvert=5.1.1=py36_0
-- nbformat=4.3.0=py36_0
+- nbformat=4.4.0=py36h3a5bc1b_0
 - networkx=1.11=py36_0
 - notebook=5.0.0=py36_0
 - numba=0.31.0=np112py36_0
@@ -90,23 +90,22 @@ dependencies:
 - vs2015_runtime=14.0.25123=0
 - wcwidth=0.1.7=py36_0
 - wheel=0.29.0=py36_0
-- widgetsnbextension=2.0.0=py36_0
+- widgetsnbextension=3.0.2=py36h364476f_1
 - zlib=1.2.8=vc14_3
 - pip:
   - backports.functools-lru-cache==1.4
-  - fretbursts (e:\data\antonio\software\src\fretbursts)==0.6.5+1.gab87e81
   - ipython-genutils==0.2.0
   - ipythonblocks==1.7.0
   - jupyter-client==5.0.0
   - jupyter-core==4.3.0
   - line-profiler==2.0
-  - manta (e:\data\antonio\software\src\manta)==0.1 5 g55cf79c
   - nbopen==0.4.2
-  - niconverter (e:\data\antonio\software\src\niconverter)==0.1+3.ga405537
-  - phconvert (e:\data\antonio\software\src\phconvert)==0.7.3+21.g9ade74b
+  - nbstripout==0.3.1
+  - niconverter (e:\data\antonio\software\src\niconverter)==0.2
   - prompt-toolkit==1.0.13
   - pycorrelate==0.1.0
   - requests==2.13.0
   - tables==3.2.2
   - tqdm==4.11.2
 prefix: C:\Users\laser2002j\Miniconda3\envs\py36
+
